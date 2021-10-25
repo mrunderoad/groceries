@@ -3,5 +3,7 @@
 }
 
 .jumbotron {
-  background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F24%2F2018%2F08%2FGettyImages-626536634-2000.jpg&q=85);
+  background-image: url(https://images.theconversation.com/files/220456/original/file-20180525-51102-1k5g8bj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=675.0&fit=crop);
+  color: rgb(249, 249, 249);
+  text-align: center;
 }
